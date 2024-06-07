@@ -9,7 +9,7 @@ In order to **Initialize** the project, kindly navigate to the directory and inp
  * https://api.openweathermap.org/data/2.5/forecast - To fetch the weather forecast next 5-days.
 
 ## Github Link
-Github [link] (https://github.com/vishwaskwatra/Weather-forecast-dashboard) 
+Github [link](https://github.com/vishwaskwatra/Weather-forecast-dashboard) 
 
 ** About Project
 This is basically a weather-forecast dashboard webapp, which shows the weather data acccording to the location entered.
